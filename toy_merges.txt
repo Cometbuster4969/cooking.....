@@ -1,0 +1,18 @@
+# toy BPE merges, highest priority first
+u n
+b e
+be l
+bel i
+beli e
+belie v
+a b
+ab l
+abl e
+▁ un
+▁un believ
+▁unbeliev able
+w o
+wo r
+wor l
+worl d
+▁ world
